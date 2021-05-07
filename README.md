@@ -1,5 +1,9 @@
 # Juego-Pintado
 Se utilizó el código base obtenido de Grant Jenks (http://www.grantjenks.com/docs/freegames/paint.html).
+## Funciones ya implementadas
+* Se pueden dibujar líneas.
+* Se pueden dibujar cuadrados.
+* Se puede pintar en colores: rojo, azul, verde negro y blanco.
 
 ## Funcionalidades añadidas
 
